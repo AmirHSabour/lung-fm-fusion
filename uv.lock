@@ -507,7 +507,7 @@ wheels = [
 ]
 
 [[package]]
-name = "m31"
+name = "lung-fm-fusion"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
