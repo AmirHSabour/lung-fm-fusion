@@ -5,7 +5,7 @@ in `conf/models.yaml`. This directory is git-ignored: the weights are large and 
 licences forbid redistribution (UNI2-h, Virchow2, Prism2: CC-BY-NC-ND-4.0; GenBio-PathFM:
 GenBio AI Community License, non-commercial). UNI2-h, Virchow2 and Prism2 are gated: each
 person must request access on Hugging Face with their own account. Models used: UNI2-h,
-Virchow2 and GenBio-PathFM; Prism2 is not used (access pending, PROGRESS.md D19).
+Virchow2 and GenBio-PathFM; Prism2 is not used (docs/methods.md D19).
 
 | Folder      | Hub repo              | Type                         | Embedding        | Input                         | Normalization        | Size   |
 | ----------- | --------------------- | ---------------------------- | ---------------- | ----------------------------- | -------------------- | ------ |
@@ -24,7 +24,7 @@ Use `src/embeddings/models.py`, which loads each encoder from these local files 
 its own published preprocessing**. Loading timm weights with only
 `pretrained_cfg_overlay=dict(file=...)` silently falls back to timm's generic defaults
 (mean/std 0.5, crop_pct 0.9); the helper merges each repo's `config.json` preprocessing
-back in (PROGRESS.md, D6). `tests/test_models.py` checks this.
+back in (docs/methods.md D6). `tests/test_models.py` checks this.
 
 ```python
 from pathlib import Path
@@ -35,7 +35,7 @@ virchow2 = load_virchow2(Path("models/Virchow2")) # (B, 3, 224, 224) -> (B, 261,
 # Virchow2 tokens: [0] = class token, [1:5] = registers, [5:] = 256 patch tokens
 uni2_tf, virchow2_tf = model_transform(uni2), model_transform(virchow2)
 
-# GenBio-PathFM (runs its own model code; reviewed, PROGRESS.md D19)
+# GenBio-PathFM (runs its own model code; reviewed, docs/methods.md D19)
 from src.embeddings.models import load_genbio_pathfm
 genbio = load_genbio_pathfm(Path("models/GenBio-PathFM"))  # (B, 3, 224, 224) -> (B, 4608)
 genbio_tf = model_transform(genbio)

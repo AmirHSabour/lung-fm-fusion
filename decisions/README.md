@@ -24,8 +24,8 @@ The loop that produces these versions is specified in [`../docs/loop.md`](../doc
    as dated amendments.
 2. Every number is copied from the version's `trials.jsonl` or `summary.csv`, never retyped
    from memory.
-3. Every version is reproducible from its git tag (`vNN`) and its config
-   (`conf/versions/vNN.yaml`).
+3. Every version is reproducible from the shared code and its config (`conf/versions/vNN.yaml`):
+   earlier versions' code paths are never changed, and their tests keep passing.
 4. Development data of seed 0 only. The test set is never used.
 
 ## Leaderboard (seed 0, development data, macro AUROC out-of-fold over 162 patients)
@@ -61,7 +61,7 @@ global over the experiments of this block.
 | v10 | `v10` | U, V, G | Age and sex as attention queries over tiles | 20 / 20 | X1:raw (screen) | 0.858 [0.825, 0.889] | 0.520 | +0.059 [+0.029, +0.085], 99.95% | +0.006 (126) | no |
 | v11 | `v11` | U, V, G | Auxiliary grade-group target for the experts | 20 / 20 | **H1:raw (screen)** | **0.863 [0.831, 0.894]** | 0.521 | +0.064 [+0.033, +0.093], 100% | +0.003 (146) | **yes** (vs v04_uvg M2: 97.4%, bal. acc. +0.019) |
 
-The loop ended after v11 (user's decision); summary: [`SUMMARY.md`](SUMMARY.md). Test results of the
+The loop ended after v11 (version budget); summary: [`SUMMARY.md`](SUMMARY.md). Test results of the
 frozen designs (H1 primary, H2, C1) on seeds 0–4: [`../docs/results.md`](../docs/results.md).
 
 v06 (post-hoc): X1:raw 0.858 is the highest AUROC on U, V, G; vs UNI2-h expert alone 77%, vs U + V +

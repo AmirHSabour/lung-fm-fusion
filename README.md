@@ -96,7 +96,8 @@ the same code, but numbers may differ in the last digits.
 **Notebooks.** [`01_results.ipynb`](notebooks/01_results.ipynb): the results with figures, and a
 re-run of the final evaluation (one split by default; all five by uncommenting one line), checked
 against the committed numbers. [`02_agent_loop.ipynb`](notebooks/02_agent_loop.ipynb): the versions,
-their decisions and experiments.
+their decisions and experiments. Both need the cached features (`artifacts/features/`, not
+redistributed); on Colab or Kaggle, copy them in first.
 
 **Tests.** `uv run --no-sync pytest` (157 tests: cohort and splits rebuilt byte for byte, split
 invariants, preprocessing, every fusion recipe, agent rules and resumption, no test-set leakage).

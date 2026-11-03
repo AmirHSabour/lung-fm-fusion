@@ -1,7 +1,6 @@
 # Summary of the version loop (v01–v11)
 
-Written 2026-11-02, when the loop ended at the user's decision ("I think 11 budget is good
-enough"). All numbers are seed 0, development data (162 patients, 8-fold out-of-fold), macro
+Written 2026-11-02, when the loop ended after v11 (the version budget set by the project lead). All numbers are seed 0, development data (162 patients, 8-fold out-of-fold), macro
 AUROC; the test set was not read during the loop. Per-version detail: `vNN.md`; leaderboard:
 `README.md`.
 

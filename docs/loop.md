@@ -58,7 +58,7 @@ end: decisions/SUMMARY.md (§10), then stop and ask before any test-set use
 ## 3. Where you are
 
 The state is defined by files, never by memory. The last row of the `decisions/README.md`
-leaderboard is the last finished version; `git tag --list 'v*'` lists closed versions; the
+leaderboard is the last finished version; the
 sections filled in the highest `decisions/vNN.md` give the step (§1–4 only: B or C; §5: E; §8
 without a tag: G). An interrupted run resumes by re-issuing its command; if the code changed
 since it started, it stops: commit, delete that version's output directory, re-run, and record
