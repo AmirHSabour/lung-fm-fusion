@@ -1,0 +1,204 @@
+SampleNumber,WSI_ID,label,split,fold
+8007623,WSI-369,Acinar,test,
+8008524,WSI-361,Solid,test,
+8013888,WSI-255,Solid,dev,0
+8017082,WSI-265,Papillary,dev,7
+8020981,WSI-392,In situ,test,
+8022410,WSI-71,In situ,dev,1
+8029758,WSI-105,Cribriform,test,
+8030821,WSI-33,In situ,dev,7
+8060308,WSI-213,Papillary,test,
+8103477,WSI-97,Papillary,dev,7
+8111526,WSI-232,Solid,dev,1
+8126701,WSI-264,Cribriform,dev,1
+8133249,WSI-21,In situ,dev,6
+8143088,WSI-378,In situ,dev,3
+8146413,WSI-286,Acinar,dev,6
+8163836,WSI-341,Lepidic,dev,2
+8170462,WSI-346,Lepidic,dev,7
+8180155,WSI-331,Micropapillary,dev,0
+8189481,WSI-55,In situ,dev,7
+8203346,WSI-196,Cribriform,test,
+8215472,WSI-385,In situ,dev,4
+8221946,WSI-350,Lepidic,dev,1
+8223039,WSI-345,In situ,dev,6
+8224566,WSI-363,Acinar,dev,0
+8225155,WSI-349,Acinar,test,
+8225322,WSI-347,Lepidic,test,
+8225911,WSI-353,In situ,dev,1
+8227276,WSI-355,Acinar,dev,2
+8227640,WSI-358,In situ,dev,2
+8227741,WSI-354,Acinar,dev,2
+8227980,WSI-352,Acinar,dev,7
+8228355,WSI-356,Papillary,dev,2
+8228780,WSI-357,In situ,test,
+8229292,WSI-359,In situ,test,
+8231081,WSI-375,Cribriform,test,
+8234200,WSI-371,Acinar,dev,5
+8234694,WSI-360,Acinar,dev,3
+8237784,WSI-364,Lepidic,dev,0
+8238261,WSI-366,Acinar,dev,1
+8238702,WSI-362,In situ,dev,7
+8239884,WSI-367,Papillary,dev,6
+8240634,WSI-372,Acinar,dev,6
+8242401,WSI-370,Lepidic,dev,2
+8243928,WSI-377,Solid,test,
+8243986,WSI-374,In situ,dev,0
+8244091,WSI-403,Acinar,dev,2
+8245273,WSI-388,In situ,dev,6
+8245910,WSI-386,Acinar,test,
+8245975,WSI-380,Acinar,dev,1
+8246145,WSI-383,In situ,dev,4
+8246209,WSI-387,In situ,dev,5
+8246451,WSI-393,Acinar,dev,5
+8246533,WSI-382,Papillary,dev,7
+8246551,WSI-379,In situ,dev,0
+8246791,WSI-389,Lepidic,dev,4
+8248340,WSI-391,Lepidic,dev,0
+8248357,WSI-390,Lepidic,dev,6
+8248415,WSI-398,Lepidic,dev,7
+8248702,WSI-400,Acinar,test,
+8248805,WSI-401,Lepidic,test,
+8248854,WSI-396,Lepidic,dev,5
+8249894,WSI-404,In situ,dev,0
+8249974,WSI-397,Acinar,dev,0
+8250047,WSI-407,In situ,dev,4
+8250185,WSI-394,Acinar,dev,3
+8250390,WSI-405,Solid,test,
+8250645,WSI-194,Micropapillary,dev,7
+8251032,WSI-408,Micropapillary,test,
+8251346,WSI-406,In situ,dev,5
+8275340,WSI-112,Papillary,dev,4
+8276073,WSI-160,Solid,dev,6
+8280993,WSI-116,Cribriform,dev,7
+8322782,WSI-107,Solid,dev,5
+8328230,WSI-7,In situ,dev,3
+8337687,WSI-67,In situ,dev,2
+8340298,WSI-3,In situ,test,
+8342197,WSI-174,Papillary,dev,5
+8355990,WSI-288,Acinar,dev,3
+8365118,WSI-9,In situ,dev,3
+8373873,WSI-1,In situ,dev,6
+8373888,WSI-13,In situ,dev,3
+8374253,WSI-11,In situ,dev,2
+8374273,WSI-5,In situ,test,
+8375043,WSI-193,Solid,dev,3
+8375372,WSI-16,Cribriform,dev,0
+8377498,WSI-19,In situ,dev,1
+8377886,WSI-35,Papillary,dev,0
+8377922,WSI-25,In situ,dev,4
+8378183,WSI-23,In situ,test,
+8378244,WSI-27,In situ,test,
+8378774,WSI-31,Acinar,dev,5
+8378935,WSI-29,In situ,dev,5
+8380032,WSI-37,In situ,test,
+8380220,WSI-39,In situ,test,
+8380598,WSI-77,Papillary,dev,6
+8380665,WSI-41,Papillary,test,
+8381104,WSI-42,In situ,dev,0
+8381316,WSI-44,In situ,dev,0
+8382068,WSI-46,In situ,dev,1
+8383318,WSI-48,Solid,dev,7
+8383378,WSI-65,In situ,dev,7
+8383521,WSI-86,Solid,dev,1
+8384436,WSI-51,In situ,dev,1
+8384801,WSI-59,Cribriform,dev,2
+8385282,WSI-63,Papillary,test,
+8385363,WSI-57,In situ,dev,2
+8385456,WSI-61,In situ,dev,2
+8386141,WSI-190,Micropapillary,test,
+8386241,WSI-66,Micropapillary,dev,2
+8386342,WSI-69,In situ,dev,5
+8387212,WSI-73,In situ,dev,7
+8390717,WSI-80,Micropapillary,dev,1
+8393154,WSI-83,Micropapillary,dev,0
+8396592,WSI-89,Micropapillary,dev,4
+8399843,WSI-93,Papillary,dev,5
+8399864,WSI-95,Solid,dev,6
+8400161,WSI-98,Papillary,dev,0
+8400293,WSI-91,Papillary,test,
+8402871,WSI-100,Solid,dev,6
+8403108,WSI-127,Papillary,dev,1
+8403576,WSI-109,Papillary,dev,4
+8403586,WSI-122,Solid,test,
+8404064,WSI-130,Solid,test,
+8404220,WSI-114,Micropapillary,dev,6
+8404326,WSI-111,Papillary,test,
+8404498,WSI-120,Papillary,dev,5
+8405402,WSI-118,Papillary,dev,1
+8406776,WSI-135,Solid,test,
+8406914,WSI-132,Solid,dev,3
+8407538,WSI-145,Solid,dev,5
+8407602,WSI-137,Solid,dev,1
+8408447,WSI-138,Papillary,test,
+8408497,WSI-140,Papillary,dev,6
+8410228,WSI-143,Solid,dev,7
+8411469,WSI-169,Micropapillary,dev,7
+8412818,WSI-147,Micropapillary,test,
+8413637,WSI-150,Micropapillary,dev,4
+8414312,WSI-157,Solid,dev,0
+8414703,WSI-152,Papillary,test,
+8415370,WSI-154,Micropapillary,dev,5
+8416065,WSI-248,Papillary,dev,6
+8417145,WSI-166,Micropapillary,dev,1
+8417654,WSI-163,Solid,dev,4
+8418084,WSI-172,Papillary,dev,3
+8419053,WSI-177,Solid,dev,2
+8420384,WSI-220,Papillary,dev,1
+8422802,WSI-180,Papillary,dev,2
+8422879,WSI-179,Solid,dev,4
+8423960,WSI-188,Micropapillary,dev,5
+8424483,WSI-186,Solid,dev,3
+8424691,WSI-182,Papillary,test,
+8424956,WSI-192,Papillary,dev,2
+8425512,WSI-184,Papillary,dev,4
+8425534,WSI-222,Papillary,dev,2
+8427889,WSI-211,Cribriform,dev,0
+8428475,WSI-201,Cribriform,dev,7
+8429439,WSI-198,Micropapillary,dev,3
+8430453,WSI-202,Micropapillary,test,
+8430989,WSI-204,Solid,dev,0
+8431695,WSI-207,Solid,dev,7
+8432886,WSI-209,Papillary,dev,0
+8435204,WSI-228,Cribriform,dev,4
+8435688,WSI-224,Solid,dev,2
+8436038,WSI-217,Papillary,dev,1
+8436460,WSI-241,Solid,dev,4
+8439102,WSI-230,Micropapillary,dev,2
+8441170,WSI-238,Micropapillary,dev,2
+8441492,WSI-267,Cribriform,dev,3
+8441511,WSI-235,Cribriform,dev,1
+8442830,WSI-258,Micropapillary,dev,6
+8444525,WSI-245,Cribriform,dev,5
+8445196,WSI-244,Cribriform,dev,6
+8445479,WSI-250,Papillary,dev,3
+8446030,WSI-261,Solid,dev,5
+8446426,WSI-253,Micropapillary,dev,3
+8447059,WSI-300,Acinar,dev,6
+8448471,WSI-270,Papillary,dev,0
+8449479,WSI-271,Papillary,dev,3
+8452560,WSI-273,Cribriform,dev,6
+8494497,WSI-275,Acinar,test,
+8495518,WSI-277,Micropapillary,dev,4
+8495760,WSI-280,Acinar,dev,4
+8505034,WSI-320,Acinar,dev,1
+8509161,WSI-308,Lepidic,dev,6
+8514715,WSI-282,Acinar,dev,7
+8520787,WSI-284,Lepidic,dev,4
+8532614,WSI-290,Acinar,test,
+8532866,WSI-292,Papillary,dev,3
+8533034,WSI-295,Lepidic,test,
+8534227,WSI-304,Acinar,dev,0
+8534345,WSI-297,Papillary,dev,5
+8536033,WSI-302,Micropapillary,dev,5
+8539620,WSI-310,Acinar,dev,4
+8540568,WSI-318,Lepidic,test,
+8542525,WSI-311,Lepidic,dev,3
+8543369,WSI-313,Acinar,dev,4
+8547959,WSI-316,Lepidic,dev,5
+8551092,WSI-327,Micropapillary,dev,1
+8551431,WSI-322,Micropapillary,dev,3
+8551521,WSI-325,Lepidic,dev,3
+8552577,WSI-329,Acinar,dev,7
+8553258,WSI-336,Micropapillary,test,
+8555105,WSI-334,Papillary,dev,4

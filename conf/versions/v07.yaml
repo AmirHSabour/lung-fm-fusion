@@ -1,0 +1,61 @@
+# v07 (decisions/v07.md): v06 + CLAM experts (class-specific attention, instance clustering loss); U, V, G.
+# Run: python -m scripts.10_fusion_search --seed 0 --dev --config conf/versions/v07.yaml
+
+policy: v02
+out_dir: artifacts/versions/v07
+tile_cache: artifacts/features/tiles     # stage 08b; adds the ID block read by MIL recipes
+models: [uni2h, virchow2, genbio_pathfm]                  # image blocks; age and sex are always the last block
+runs_dir: artifacts/runs
+dryrun_dir: artifacts/dryrun
+device: cuda:0                             # networks; must be the conf/train.yaml GPU type (RTX 4090)
+
+order: [E1, E2, E3, E4, L1, L2, L3, L4, P1, P2, P3, P4, N1, N2, N3, M1, M2, M3, X1, X2, X3, X4, A1, A2, C1, C2]   # recipe simplicity order
+families: [early, late, pool, learned, mil, mexp, agg, clam]     # family simplicity order
+untunable_families: [mil, mexp, agg, clam]      # tuning MIL-type networks exceeds the cap (decisions/v05.md §2, v07.md §2)
+
+encodings:                                  # age-and-sex encodings per family, in simplicity order
+  early: [raw, ple]
+  late: [raw, ple]
+  pool: [raw, ple]
+  learned: [joint, ft, plr, ple]
+  mil: [ft, ple]
+  mexp: [raw, ple]
+  agg: [raw, ple]
+  clam: [raw, ple]
+default_encoding: {early: raw, late: raw, pool: raw, learned: ft, mil: ft, mexp: raw, agg: raw, clam: raw}
+opening: ["E1:raw", "L1:raw", "P1:raw", "N1:ft", "M1:ft", "X1:raw", "A1:raw", "C1:raw", "C2:raw"]
+
+phase1:                     # screen experiments: fixed values (v01 Phase 1)
+  C_img: 0.01
+  C_meta: 1.0
+  C_stack: 1.0
+  weight_decay: 0.01
+  size: 32
+
+phase2:                     # tuned experiments: everything by inner CV
+  grid: [0.0001, 0.001, 0.01, 0.1, 1.0]   # C or weight decay
+  size_grid: [16, 32, 64]                 # PCA k or projection d (recipes with a size)
+  inner_folds: 5
+
+mil:                        # multiple-instance training, fixed (decisions/v04.md §2); weight decay tuned in tuned mode
+  epochs: 100
+  lr: 0.001
+  dropout: 0.25
+  tiles_per_step: 256
+  n_seeds: 3
+
+network:                    # fixed for every network experiment; never tuned
+  epochs: 100
+  lr: 0.001
+  dropout: 0.25
+  n_seeds: 3
+
+search:
+  budget: 20                # experiments: <= 17 to open and explore, 3 to tune
+  tune_count: 3
+  cap_minutes: 30
+  win_share: 0.9            # "clearly beats": wins in >= 90% of paired resamples...
+  bacc_margin: 0.02         # ...and balanced accuracy at most 0.02 lower
+  n_resamples: 2000
+
+max_iter: 5000

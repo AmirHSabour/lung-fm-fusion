@@ -1,0 +1,65 @@
+winner: s0-T012
+recipe: L2
+size: null
+phase: 2
+settings:
+  combine: logit_mean
+  family: late
+  inner_folds: 5
+  phase: 2
+  recipe: L2
+  size: null
+  tuned_by_inner_cv:
+  - 0.0001
+  - 0.001
+  - 0.01
+  - 0.1
+  - 1.0
+chosen_per_fold:
+- M: 0.1
+  uni2h: 0.001
+  virchow2: 0.001
+- M: 1.0
+  uni2h: 0.01
+  virchow2: 0.001
+- M: 1.0
+  uni2h: 0.01
+  virchow2: 0.001
+- M: 1.0
+  uni2h: 0.001
+  virchow2: 0.01
+- M: 1.0
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 0.01
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 0.001
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 1.0
+  uni2h: 0.01
+  virchow2: 1.0
+macro_auroc:
+  ci:
+  - 0.7537244687986142
+  - 0.8364982578826633
+  fold_mean: 0.806524839467951
+  fold_sd: 0.043853747724770915
+  oof: 0.796651367094519
+balanced_accuracy:
+  ci:
+  - 0.37429405668298177
+  - 0.5165566372645365
+  fold_mean: 0.44672619047619044
+  fold_sd: 0.11023826053087034
+  oof: 0.44660468207853504
+decision: s0-D002
+fingerprint: 2575795ce3fc0cef8adb33a905daee398906f057bef9eb291eaca4337e241aab
+checksum: 560d53adde091618f11a59900fbd36e738c613dd0a756403dfe09a643d6ebfa3
+winners_curse:
+  experiments: 13
+  inflation_mean: 0.008831565382046946
+  inflation_ci:
+  - -0.02517783927900335
+  - 0.043579253791173334

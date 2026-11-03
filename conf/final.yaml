@@ -1,0 +1,36 @@
+# Final evaluation (stage 12; decisions/SUMMARY.md §6). Frozen before the test set is read.
+#
+# Three designs from the version loop (seed 0 development AUROC), all evaluated on seeds 0–4.
+# The primary design is the agent's own selection (v11 final selection s0-D006); the other two are
+# reported as secondary, whatever they score. The primary is never changed after test numbers are seen.
+
+search_config: conf/versions/v11.yaml     # recipe settings (tile cache, MIL training, phase-1 values)
+out_dir: artifacts/final
+models: [uni2h, virchow2, genbio_pathfm]
+seeds: [0, 1, 2, 3, 4]
+
+designs:
+  H1:                                     # v11 winner (agent-selected): attention-MIL experts + grade-group head
+    candidate: "H1:raw"
+    role: primary
+    seed0_dev_auroc: 0.8634               # v11 s0-T016; seed 0 must reproduce it exactly
+  H2:                                     # v11 highest AUROC: CLAM-SB experts + grade-group head
+    candidate: "H2:raw"
+    role: secondary
+    seed0_dev_auroc: 0.8655               # v11 s0-T017
+  C1:                                     # v07 highest AUROC: CLAM-SB experts
+    candidate: "C1:raw"
+    role: secondary
+    seed0_dev_auroc: 0.8614               # v11 s0-T008
+
+# Rows per design, all with the design's own recipe (TASK.md §5.3: identical classifier family):
+# fused + age and sex; each model alone; best single model (chosen on development CV AUROC) + age
+# and sex; age and sex alone; the fused model without age and sex (metadata diagnostic).
+# The original rows 1-5 (mean pooling + logistic regression, stage 09) are also scored on test.
+
+n_resamples: 2000                         # stratified bootstrap over the test patients, per seed
+claim_rule: "fused beats a row on a seed if the paired 95% CI of the AUROC gain excludes 0"
+
+# D11 sensitivity analysis (fixed in advance): the selected slides of the five patients with
+# conflicting labels; test metrics are also reported without whichever of them are in the test set.
+conflicting_label_slides: [WSI-347, WSI-372, WSI-380, WSI-398, WSI-401]

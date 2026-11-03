@@ -1,0 +1,75 @@
+winner: s0-T014
+recipe: L1
+size: null
+phase: 2
+candidate: null
+mode: null
+settings:
+  combine: prob_mean
+  family: late
+  inner_folds: 5
+  phase: 2
+  recipe: L1
+  size: null
+  tuned_by_inner_cv:
+  - 0.0001
+  - 0.001
+  - 0.01
+  - 0.1
+  - 1.0
+chosen_per_fold:
+- M: 0.1
+  genbio_pathfm: 0.1
+  uni2h: 0.001
+  virchow2: 0.001
+- M: 1.0
+  genbio_pathfm: 0.0001
+  uni2h: 0.01
+  virchow2: 0.001
+- M: 1.0
+  genbio_pathfm: 1.0
+  uni2h: 0.01
+  virchow2: 0.001
+- M: 1.0
+  genbio_pathfm: 0.001
+  uni2h: 0.001
+  virchow2: 0.01
+- M: 1.0
+  genbio_pathfm: 0.001
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 0.01
+  genbio_pathfm: 0.01
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 0.001
+  genbio_pathfm: 0.01
+  uni2h: 0.01
+  virchow2: 0.01
+- M: 1.0
+  genbio_pathfm: 1.0
+  uni2h: 0.01
+  virchow2: 1.0
+macro_auroc:
+  ci:
+  - 0.75555154751846
+  - 0.8346309098116595
+  fold_mean: 0.801609269804413
+  fold_sd: 0.05065496654625752
+  oof: 0.7963525350505728
+balanced_accuracy:
+  ci:
+  - 0.35675727420467956
+  - 0.5007999001377083
+  fold_mean: 0.41547619047619044
+  fold_sd: 0.07318697294870333
+  oof: 0.42927420149920653
+decision: s0-D002
+fingerprint: 988f965c9ec81af583fecaff140688dfe30487da761c9306c0907b4f475fdefb
+checksum: 0d2f8cc7d0a8da8381157a745067d2136037d6fcb57265ca1c17a737a71f67fa
+winners_curse:
+  experiments: 14
+  inflation_mean: 0.007657526637998267
+  inflation_ci:
+  - -0.028198638708981635
+  - 0.04314851212596572

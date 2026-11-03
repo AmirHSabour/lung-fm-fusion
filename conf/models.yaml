@@ -1,0 +1,24 @@
+# Pathology foundation models (stage 00). Revisions pin the exact Hub commits used.
+root: models
+
+models:
+  uni2h:
+    repo_id: MahmoodLab/UNI2-h
+    revision: d517a8dd47902dd7c308b3c36f63bce47e7b9a43
+    local_dir: UNI2-h
+    ignore_patterns: ["requesting_access.png"]
+  virchow2:
+    repo_id: paige-ai/Virchow2
+    revision: 3158645804b69e3f3bc4439d4116edddf0840a72
+    local_dir: Virchow2
+    ignore_patterns: ["*.bin"]          # weights are duplicated; keep only model.safetensors
+  genbio_pathfm:
+    repo_id: genbio-ai/genbio-pathfm
+    revision: 6eab2a4ea6fbaee16e5f193187952042ebe5d3ec
+    local_dir: GenBio-PathFM
+    ignore_patterns: ["model.pth"]      # weights are duplicated; keep only model.safetensors
+  prism2:
+    repo_id: paige-ai/Prism2
+    revision: null                      # pin to the downloaded commit once access is granted
+    local_dir: Prism2
+    ignore_patterns: []

@@ -1,0 +1,4 @@
+model,feature,n_tiles,tile_cos_min,tile_cos_median,slide_cos
+uni2h,cls,2048,0.99986655,0.99999964,0.9999998807907104
+virchow2,cls,2048,0.99997884,0.9999946,0.9999999403953552
+virchow2,patch_mean,2048,0.99987066,0.9999976,1.0

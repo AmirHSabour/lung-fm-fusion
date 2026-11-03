@@ -1,0 +1,53 @@
+winner: s0-T005
+recipe: M1:ft
+size: null
+phase: 1
+candidate: M1:ft
+mode: screen
+settings:
+  candidate: M1:ft
+  d: 32
+  encoding: ft
+  family: mil
+  kind: concat
+  mil:
+    dropout: 0.25
+    epochs: 100
+    lr: 0.001
+    n_seeds: 3
+    tiles_per_step: 256
+  mode: screen
+  recipe: M1
+  weight_decay: 0.01
+chosen_per_fold:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+macro_auroc:
+  ci:
+  - 0.8184990165944778
+  - 0.8853705188116016
+  fold_mean: 0.8550925861938343
+  fold_sd: 0.019265462186464216
+  oof: 0.8535770823916752
+balanced_accuracy:
+  ci:
+  - 0.4721580054415408
+  - 0.6202375565700801
+  fold_mean: 0.5404761904761904
+  fold_sd: 0.08709210075319943
+  oof: 0.5462472927459904
+decision: s0-D005
+fingerprint: 4e23a3271cb5046799c98840cab55e42ca344ce3fce1ece6de5da7532fea956a
+checksum: eeebea3f162f1521e01de3d2e63600e77a288ff7771eb7b2ff4a470d4d4b73c8
+winners_curse:
+  experiments: 18
+  inflation_mean: 0.004800284462321545
+  inflation_ci:
+  - -0.027165861309840243
+  - 0.03464109842435487

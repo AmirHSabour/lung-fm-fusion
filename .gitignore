@@ -1,0 +1,26 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.env
+.cache/
+
+# Large or non-redistributable data (rebuilt by stages 00-08; see README)
+models/*
+!models/README.md
+data/*
+!data/metadata/
+/artifacts/embeddings
+/artifacts/features
+/artifacts/tiles
+/artifacts/qc
+/artifacts/logs
+
+# Predictions, resamples and caches (rebuilt by the stages that write them)
+artifacts/**/*.npz
+artifacts/**/*.npy
+artifacts/**/work/
+artifacts/final_rerun/
+artifacts/final_dryrun/
+artifacts/dryrun/
+artifacts/rerun/

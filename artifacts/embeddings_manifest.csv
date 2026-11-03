@@ -1,0 +1,610 @@
+model,WSI_ID,n_tiles,dims,seconds,device,precision,revision,code_version
+genbio_pathfm,WSI-1,6796,cls:4608,250.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-100,9414,cls:4608,335.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-105,6168,cls:4608,237.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-107,12965,cls:4608,445.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-109,9370,cls:4608,334.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-11,5667,cls:4608,216.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-111,5803,cls:4608,224.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-112,13156,cls:4608,446.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-114,5190,cls:4608,203.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-116,15824,cls:4608,587.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-118,15691,cls:4608,524.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-120,7097,cls:4608,265.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-122,13782,cls:4608,472.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-127,18154,cls:4608,608.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-13,6142,cls:4608,235.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-130,9827,cls:4608,352.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-132,18340,cls:4608,613.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-135,16509,cls:4608,559.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-137,12400,cls:4608,434.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-138,8912,cls:4608,316.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-140,9959,cls:4608,345.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-143,15864,cls:4608,544.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-145,8429,cls:4608,308.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-147,17452,cls:4608,576.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-150,7878,cls:4608,286.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-152,8371,cls:4608,299.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-154,16256,cls:4608,553.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-157,15543,cls:4608,526.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-16,12832,cls:4608,442.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-160,18374,cls:4608,604.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-163,10400,cls:4608,367.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-166,9883,cls:4608,351.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-169,17174,cls:4608,577.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-172,8443,cls:4608,305.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-174,10219,cls:4608,359.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-177,12687,cls:4608,437.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-179,6420,cls:4608,240.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-180,8035,cls:4608,289.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-182,7899,cls:4608,285.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-184,5369,cls:4608,209.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-186,7785,cls:4608,282.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-188,7881,cls:4608,288.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-19,7242,cls:4608,269.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-190,3947,cls:4608,135.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-192,16198,cls:4608,543.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-193,5983,cls:4608,227.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-194,12936,cls:4608,439.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-196,6172,cls:4608,234.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-198,12001,cls:4608,424.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-201,16367,cls:4608,552.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-202,9383,cls:4608,328.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-204,16096,cls:4608,547.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-207,14083,cls:4608,480.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-209,10423,cls:4608,359.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-21,10575,cls:4608,372.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-211,3341,cls:4608,112.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-213,16621,cls:4608,554.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-217,9759,cls:4608,346.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-220,5988,cls:4608,231.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-222,9960,cls:4608,344.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-224,7797,cls:4608,286.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-228,13581,cls:4608,465.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-23,5092,cls:4608,203.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-230,13978,cls:4608,471.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-232,11523,cls:4608,397.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-235,17003,cls:4608,562.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-238,17936,cls:4608,591.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-241,17643,cls:4608,592.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-244,13325,cls:4608,451.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-245,14991,cls:4608,503.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-248,10180,cls:4608,352.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-25,4833,cls:4608,192.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-250,4667,cls:4608,194.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-253,4274,cls:4608,174.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-255,17284,cls:4608,582.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-258,14809,cls:4608,497.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-261,18225,cls:4608,600.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-264,12576,cls:4608,442.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-265,6555,cls:4608,244.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-267,8509,cls:4608,303.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-27,6426,cls:4608,245.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-270,9856,cls:4608,341.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-271,16452,cls:4608,553.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-273,13013,cls:4608,447.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-275,9270,cls:4608,325.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-277,12611,cls:4608,434.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-280,9519,cls:4608,331.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-282,11114,cls:4608,388.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-284,9653,cls:4608,335.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-286,14762,cls:4608,502.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-288,9068,cls:4608,317.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-29,7325,cls:4608,268.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-290,6677,cls:4608,252.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-292,14829,cls:4608,504.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-295,11879,cls:4608,409.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-297,10010,cls:4608,357.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-3,4026,cls:4608,136.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-300,7398,cls:4608,274.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-302,10037,cls:4608,356.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-304,18984,cls:4608,632.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-308,8300,cls:4608,300.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-31,8846,cls:4608,319.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-310,7498,cls:4608,276.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-311,14109,cls:4608,476.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-313,14253,cls:4608,486.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-316,11074,cls:4608,381.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-318,4203,cls:4608,173.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-320,8547,cls:4608,308.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-322,14310,cls:4608,483.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-325,8918,cls:4608,320.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-327,7269,cls:4608,266.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-329,8202,cls:4608,295.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-33,7406,cls:4608,270.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-331,12969,cls:4608,441.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-334,9256,cls:4608,330.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-336,12452,cls:4608,430.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-341,9960,cls:4608,352.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-345,8045,cls:4608,292.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-346,3903,cls:4608,127.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-347,9989,cls:4608,353.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-349,6400,cls:4608,244.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-35,7155,cls:4608,265.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-350,9186,cls:4608,329.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-352,7087,cls:4608,260.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-353,3476,cls:4608,113.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-354,6161,cls:4608,231.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-355,16049,cls:4608,542.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-356,6826,cls:4608,262.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-357,6202,cls:4608,239.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-358,13959,cls:4608,478.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-359,10723,cls:4608,376.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-360,13734,cls:4608,463.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-361,6135,cls:4608,232.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-362,10682,cls:4608,366.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-363,19853,cls:4608,660.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-364,8351,cls:4608,302.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-366,16261,cls:4608,541.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-367,5339,cls:4608,211.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-369,13227,cls:4608,454.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-37,6843,cls:4608,257.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-370,11731,cls:4608,413.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-371,11703,cls:4608,400.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-372,9762,cls:4608,337.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-374,3579,cls:4608,121.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-375,11513,cls:4608,392.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-377,17269,cls:4608,570.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-378,6234,cls:4608,236.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-379,8340,cls:4608,302.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-380,13944,cls:4608,471.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-382,15289,cls:4608,512.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-383,4088,cls:4608,137.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-385,10200,cls:4608,360.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-386,9560,cls:4608,340.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-387,2275,cls:4608,82.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-388,6819,cls:4608,260.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-389,10262,cls:4608,362.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-39,3013,cls:4608,99.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-390,12107,cls:4608,436.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-391,5101,cls:4608,203.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-392,7195,cls:4608,263.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-393,10074,cls:4608,364.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-394,8658,cls:4608,309.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-396,10377,cls:4608,357.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-397,7584,cls:4608,275.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-398,12901,cls:4608,444.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-400,21768,cls:4608,707.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-401,4008,cls:4608,134.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-403,9199,cls:4608,321.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-404,11951,cls:4608,414.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-405,19084,cls:4608,625.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-406,10086,cls:4608,356.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-407,5937,cls:4608,229.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-408,12751,cls:4608,433.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-41,7953,cls:4608,290.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-42,4092,cls:4608,139.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-44,3633,cls:4608,125.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-46,5526,cls:4608,216.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-48,10321,cls:4608,356.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-5,4690,cls:4608,188.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-51,7657,cls:4608,282.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-55,2951,cls:4608,103.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-57,3550,cls:4608,122.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-59,8431,cls:4608,299.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-61,4720,cls:4608,192.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-63,12379,cls:4608,440.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-65,8115,cls:4608,295.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-66,10340,cls:4608,364.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-67,4906,cls:4608,198.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-69,2029,cls:4608,68.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-7,4265,cls:4608,178.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-71,5857,cls:4608,224.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-73,8337,cls:4608,298.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-77,7309,cls:4608,271.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,c3158a6710ca905deb2b584f035ab55cf27f4ea0
+genbio_pathfm,WSI-80,15743,cls:4608,583.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-83,16685,cls:4608,564.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-86,12779,cls:4608,451.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-89,8350,cls:4608,299.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-9,7120,cls:4608,266.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-91,12117,cls:4608,429.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-93,2819,cls:4608,98.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-95,15211,cls:4608,516.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-97,12317,cls:4608,427.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+genbio_pathfm,WSI-98,8073,cls:4608,294.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,6eab2a4ea6fbaee16e5f193187952042ebe5d3ec,a330c1125b7828822e1ef19b583c2d244d853031
+uni2h,WSI-1,6796,cls:1536,80.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-100,9414,cls:1536,99.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-105,6168,cls:1536,74.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-107,12965,cls:1536,128.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-109,9370,cls:1536,98.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-11,5667,cls:1536,69.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-111,5803,cls:1536,70.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-112,13156,cls:1536,127.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-114,5190,cls:1536,66.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-116,15824,cls:1536,147.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-118,15691,cls:1536,150.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-120,7097,cls:1536,81.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-122,13782,cls:1536,131.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-127,18154,cls:1536,164.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-13,6142,cls:1536,73.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-130,9827,cls:1536,101.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-132,18340,cls:1536,170.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-135,16509,cls:1536,152.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-137,12400,cls:1536,121.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-138,8912,cls:1536,94.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-140,9959,cls:1536,101.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-143,15864,cls:1536,147.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-145,8429,cls:1536,90.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-147,17452,cls:1536,164.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-150,7878,cls:1536,85.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-152,8371,cls:1536,90.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-154,16256,cls:1536,150.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-157,15543,cls:1536,145.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-16,12832,cls:1536,125.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-160,18374,cls:1536,168.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-163,10400,cls:1536,109.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-166,9883,cls:1536,101.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-169,17174,cls:1536,158.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-172,8443,cls:1536,90.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-174,10219,cls:1536,106.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-177,12687,cls:1536,124.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-179,6420,cls:1536,75.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-180,8035,cls:1536,92.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-182,7899,cls:1536,87.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-184,5369,cls:1536,68.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-186,7785,cls:1536,85.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-188,7881,cls:1536,90.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-19,7242,cls:1536,81.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-190,3947,cls:1536,36.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-192,16198,cls:1536,149.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-193,5983,cls:1536,72.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-194,12936,cls:1536,124.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-196,6172,cls:1536,74.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-198,12001,cls:1536,119.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-201,16367,cls:1536,156.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-202,9383,cls:1536,99.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-204,16096,cls:1536,154.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-207,14083,cls:1536,133.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-209,10423,cls:1536,106.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-21,10575,cls:1536,107.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-211,3341,cls:1536,30.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-213,16621,cls:1536,154.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-217,9759,cls:1536,101.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-220,5988,cls:1536,73.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-222,9960,cls:1536,102.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-224,7797,cls:1536,87.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-228,13581,cls:1536,135.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-23,5092,cls:1536,69.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-230,13978,cls:1536,132.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-232,11523,cls:1536,114.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-235,17003,cls:1536,157.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-238,17936,cls:1536,162.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-241,17643,cls:1536,160.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-244,13325,cls:1536,127.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-245,14991,cls:1536,139.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-248,10180,cls:1536,103.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-25,4833,cls:1536,63.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-250,4667,cls:1536,64.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-253,4274,cls:1536,58.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-255,17284,cls:1536,157.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-258,14809,cls:1536,139.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-261,18225,cls:1536,171.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-264,12576,cls:1536,122.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-265,6555,cls:1536,80.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-267,8509,cls:1536,91.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-27,6426,cls:1536,75.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-270,9856,cls:1536,101.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-271,16452,cls:1536,152.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-273,13013,cls:1536,129.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-275,9270,cls:1536,97.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-277,12611,cls:1536,121.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-280,9519,cls:1536,98.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-282,11114,cls:1536,110.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-284,9653,cls:1536,102.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-286,14762,cls:1536,138.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-288,9068,cls:1536,95.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-29,7325,cls:1536,86.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-290,6677,cls:1536,76.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-292,14829,cls:1536,143.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-295,11879,cls:1536,117.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-297,10010,cls:1536,103.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-3,4026,cls:1536,36.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-300,7398,cls:1536,81.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-302,10037,cls:1536,102.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-304,18984,cls:1536,173.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-308,8300,cls:1536,91.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-31,8846,cls:1536,93.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-310,7498,cls:1536,83.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-311,14109,cls:1536,137.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-313,14253,cls:1536,139.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-316,11074,cls:1536,111.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-318,4203,cls:1536,63.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-320,8547,cls:1536,96.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-322,14310,cls:1536,135.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-325,8918,cls:1536,94.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-327,7269,cls:1536,81.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-329,8202,cls:1536,88.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-33,7406,cls:1536,84.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-331,12969,cls:1536,125.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-334,9256,cls:1536,96.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-336,12452,cls:1536,120.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-341,9960,cls:1536,102.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-345,8045,cls:1536,87.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-346,3903,cls:1536,35.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-347,9989,cls:1536,103.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-349,6400,cls:1536,76.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-35,7155,cls:1536,80.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-350,9186,cls:1536,97.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-352,7087,cls:1536,81.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-353,3476,cls:1536,32.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-354,6161,cls:1536,74.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-355,16049,cls:1536,148.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-356,6826,cls:1536,79.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-357,6202,cls:1536,74.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-358,13959,cls:1536,132.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-359,10723,cls:1536,112.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-360,13734,cls:1536,130.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-361,6135,cls:1536,73.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-362,10682,cls:1536,107.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-363,19853,cls:1536,178.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-364,8351,cls:1536,90.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-366,16261,cls:1536,155.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-367,5339,cls:1536,68.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-369,13227,cls:1536,126.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-37,6843,cls:1536,79.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-370,11731,cls:1536,116.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-371,11703,cls:1536,119.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-372,9762,cls:1536,100.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-374,3579,cls:1536,33.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-375,11513,cls:1536,113.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-377,17269,cls:1536,158.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-378,6234,cls:1536,74.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-379,8340,cls:1536,90.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-380,13944,cls:1536,137.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-382,15289,cls:1536,142.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-383,4088,cls:1536,35.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-385,10200,cls:1536,104.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-386,9560,cls:1536,99.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-387,2275,cls:1536,23.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-388,6819,cls:1536,80.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-389,10262,cls:1536,105.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-39,3013,cls:1536,28.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-390,12107,cls:1536,119.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-391,5101,cls:1536,66.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-392,7195,cls:1536,81.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-393,10074,cls:1536,103.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-394,8658,cls:1536,92.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-396,10377,cls:1536,106.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-397,7584,cls:1536,85.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-398,12901,cls:1536,125.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-400,21768,cls:1536,190.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-401,4008,cls:1536,35.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-403,9199,cls:1536,97.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-404,11951,cls:1536,118.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-405,19084,cls:1536,174.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-406,10086,cls:1536,103.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-407,5937,cls:1536,72.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-408,12751,cls:1536,125.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-41,7953,cls:1536,87.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-42,4092,cls:1536,35.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-44,3633,cls:1536,34.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-46,5526,cls:1536,69.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-48,10321,cls:1536,104.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-5,4690,cls:1536,63.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-51,7657,cls:1536,85.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-55,2951,cls:1536,28.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-57,3550,cls:1536,33.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-59,8431,cls:1536,89.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-61,4720,cls:1536,63.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-63,12379,cls:1536,121.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-65,8115,cls:1536,90.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-66,10340,cls:1536,110.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-67,4906,cls:1536,62.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-69,2029,cls:1536,20.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-7,4265,cls:1536,59.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-71,5857,cls:1536,72.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-73,8337,cls:1536,90.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-77,7309,cls:1536,82.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-80,15743,cls:1536,151.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-83,16685,cls:1536,154.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-86,12779,cls:1536,125.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-89,8350,cls:1536,89.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-9,7120,cls:1536,81.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-91,12117,cls:1536,120.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-93,2819,cls:1536,27.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-95,15211,cls:1536,147.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-97,12317,cls:1536,120.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+uni2h,WSI-98,8073,cls:1536,88.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,d517a8dd47902dd7c308b3c36f63bce47e7b9a43,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-1,6796,cls:1280 patch_mean:1280,78.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-100,9414,cls:1280 patch_mean:1280,98.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-105,6168,cls:1280 patch_mean:1280,74.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-107,12965,cls:1280 patch_mean:1280,124.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-109,9370,cls:1280 patch_mean:1280,97.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-11,5667,cls:1280 patch_mean:1280,69.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-111,5803,cls:1280 patch_mean:1280,71.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-112,13156,cls:1280 patch_mean:1280,128.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-114,5190,cls:1280 patch_mean:1280,66.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-116,15824,cls:1280 patch_mean:1280,152.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-118,15691,cls:1280 patch_mean:1280,146.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-120,7097,cls:1280 patch_mean:1280,81.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-122,13782,cls:1280 patch_mean:1280,132.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-127,18154,cls:1280 patch_mean:1280,165.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-13,6142,cls:1280 patch_mean:1280,73.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-130,9827,cls:1280 patch_mean:1280,101.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-132,18340,cls:1280 patch_mean:1280,165.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-135,16509,cls:1280 patch_mean:1280,156.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-137,12400,cls:1280 patch_mean:1280,120.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-138,8912,cls:1280 patch_mean:1280,94.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-140,9959,cls:1280 patch_mean:1280,101.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-143,15864,cls:1280 patch_mean:1280,149.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-145,8429,cls:1280 patch_mean:1280,90.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-147,17452,cls:1280 patch_mean:1280,160.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-150,7878,cls:1280 patch_mean:1280,89.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-152,8371,cls:1280 patch_mean:1280,90.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-154,16256,cls:1280 patch_mean:1280,152.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-157,15543,cls:1280 patch_mean:1280,146.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-16,12832,cls:1280 patch_mean:1280,123.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-160,18374,cls:1280 patch_mean:1280,171.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-163,10400,cls:1280 patch_mean:1280,105.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-166,9883,cls:1280 patch_mean:1280,101.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-169,17174,cls:1280 patch_mean:1280,162.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-172,8443,cls:1280 patch_mean:1280,91.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-174,10219,cls:1280 patch_mean:1280,104.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-177,12687,cls:1280 patch_mean:1280,123.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-179,6420,cls:1280 patch_mean:1280,77.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-180,8035,cls:1280 patch_mean:1280,87.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-182,7899,cls:1280 patch_mean:1280,86.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-184,5369,cls:1280 patch_mean:1280,68.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-186,7785,cls:1280 patch_mean:1280,86.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-188,7881,cls:1280 patch_mean:1280,87.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-19,7242,cls:1280 patch_mean:1280,82.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-190,3947,cls:1280 patch_mean:1280,36.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-192,16198,cls:1280 patch_mean:1280,150.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-193,5983,cls:1280 patch_mean:1280,72.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-194,12936,cls:1280 patch_mean:1280,125.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-196,6172,cls:1280 patch_mean:1280,74.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-198,12001,cls:1280 patch_mean:1280,118.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-201,16367,cls:1280 patch_mean:1280,150.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-202,9383,cls:1280 patch_mean:1280,97.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-204,16096,cls:1280 patch_mean:1280,149.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-207,14083,cls:1280 patch_mean:1280,134.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-209,10423,cls:1280 patch_mean:1280,105.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-21,10575,cls:1280 patch_mean:1280,111.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-211,3341,cls:1280 patch_mean:1280,30.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-213,16621,cls:1280 patch_mean:1280,152.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-217,9759,cls:1280 patch_mean:1280,99.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-220,5988,cls:1280 patch_mean:1280,73.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-222,9960,cls:1280 patch_mean:1280,102.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-224,7797,cls:1280 patch_mean:1280,86.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-228,13581,cls:1280 patch_mean:1280,129.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-23,5092,cls:1280 patch_mean:1280,65.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-230,13978,cls:1280 patch_mean:1280,132.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-232,11523,cls:1280 patch_mean:1280,114.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-235,17003,cls:1280 patch_mean:1280,155.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-238,17936,cls:1280 patch_mean:1280,162.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-241,17643,cls:1280 patch_mean:1280,162.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-244,13325,cls:1280 patch_mean:1280,128.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-245,14991,cls:1280 patch_mean:1280,142.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-248,10180,cls:1280 patch_mean:1280,108.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-25,4833,cls:1280 patch_mean:1280,64.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-250,4667,cls:1280 patch_mean:1280,62.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-253,4274,cls:1280 patch_mean:1280,60.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-255,17284,cls:1280 patch_mean:1280,159.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-258,14809,cls:1280 patch_mean:1280,140.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-261,18225,cls:1280 patch_mean:1280,165.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-264,12576,cls:1280 patch_mean:1280,122.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-265,6555,cls:1280 patch_mean:1280,76.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-267,8509,cls:1280 patch_mean:1280,91.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-27,6426,cls:1280 patch_mean:1280,75.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-270,9856,cls:1280 patch_mean:1280,101.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-271,16452,cls:1280 patch_mean:1280,151.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-273,13013,cls:1280 patch_mean:1280,125.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-275,9270,cls:1280 patch_mean:1280,102.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-277,12611,cls:1280 patch_mean:1280,122.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-280,9519,cls:1280 patch_mean:1280,98.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-282,11114,cls:1280 patch_mean:1280,111.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-284,9653,cls:1280 patch_mean:1280,99.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-286,14762,cls:1280 patch_mean:1280,139.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-288,9068,cls:1280 patch_mean:1280,95.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-29,7325,cls:1280 patch_mean:1280,83.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-290,6677,cls:1280 patch_mean:1280,78.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-292,14829,cls:1280 patch_mean:1280,140.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-295,11879,cls:1280 patch_mean:1280,116.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-297,10010,cls:1280 patch_mean:1280,103.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-3,4026,cls:1280 patch_mean:1280,36.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-300,7398,cls:1280 patch_mean:1280,83.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-302,10037,cls:1280 patch_mean:1280,102.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-304,18984,cls:1280 patch_mean:1280,170.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-308,8300,cls:1280 patch_mean:1280,89.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-31,8846,cls:1280 patch_mean:1280,93.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-310,7498,cls:1280 patch_mean:1280,83.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-311,14109,cls:1280 patch_mean:1280,134.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-313,14253,cls:1280 patch_mean:1280,137.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-316,11074,cls:1280 patch_mean:1280,111.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-318,4203,cls:1280 patch_mean:1280,58.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-320,8547,cls:1280 patch_mean:1280,91.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-322,14310,cls:1280 patch_mean:1280,135.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-325,8918,cls:1280 patch_mean:1280,94.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-327,7269,cls:1280 patch_mean:1280,81.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-329,8202,cls:1280 patch_mean:1280,89.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-33,7406,cls:1280 patch_mean:1280,83.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-331,12969,cls:1280 patch_mean:1280,129.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-334,9256,cls:1280 patch_mean:1280,96.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-336,12452,cls:1280 patch_mean:1280,121.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-341,9960,cls:1280 patch_mean:1280,102.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-345,8045,cls:1280 patch_mean:1280,87.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-346,3903,cls:1280 patch_mean:1280,35.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-347,9989,cls:1280 patch_mean:1280,103.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-349,6400,cls:1280 patch_mean:1280,76.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-35,7155,cls:1280 patch_mean:1280,81.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-350,9186,cls:1280 patch_mean:1280,96.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-352,7087,cls:1280 patch_mean:1280,81.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-353,3476,cls:1280 patch_mean:1280,32.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-354,6161,cls:1280 patch_mean:1280,74.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-355,16049,cls:1280 patch_mean:1280,150.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-356,6826,cls:1280 patch_mean:1280,79.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-357,6202,cls:1280 patch_mean:1280,74.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-358,13959,cls:1280 patch_mean:1280,134.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-359,10723,cls:1280 patch_mean:1280,109.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-360,13734,cls:1280 patch_mean:1280,132.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-361,6135,cls:1280 patch_mean:1280,73.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-362,10682,cls:1280 patch_mean:1280,110.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-363,19853,cls:1280 patch_mean:1280,182.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-364,8351,cls:1280 patch_mean:1280,89.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-366,16261,cls:1280 patch_mean:1280,151.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-367,5339,cls:1280 patch_mean:1280,68.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-369,13227,cls:1280 patch_mean:1280,128.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-37,6843,cls:1280 patch_mean:1280,78.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-370,11731,cls:1280 patch_mean:1280,116.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-371,11703,cls:1280 patch_mean:1280,116.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-372,9762,cls:1280 patch_mean:1280,100.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-374,3579,cls:1280 patch_mean:1280,33.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-375,11513,cls:1280 patch_mean:1280,115.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-377,17269,cls:1280 patch_mean:1280,158.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-378,6234,cls:1280 patch_mean:1280,74.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-379,8340,cls:1280 patch_mean:1280,90.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-380,13944,cls:1280 patch_mean:1280,133.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-382,15289,cls:1280 patch_mean:1280,145.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-383,4088,cls:1280 patch_mean:1280,36.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-385,10200,cls:1280 patch_mean:1280,105.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-386,9560,cls:1280 patch_mean:1280,98.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-387,2275,cls:1280 patch_mean:1280,23.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-388,6819,cls:1280 patch_mean:1280,79.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-389,10262,cls:1280 patch_mean:1280,105.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-39,3013,cls:1280 patch_mean:1280,28.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-390,12107,cls:1280 patch_mean:1280,119.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-391,5101,cls:1280 patch_mean:1280,66.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-392,7195,cls:1280 patch_mean:1280,82.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-393,10074,cls:1280 patch_mean:1280,103.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-394,8658,cls:1280 patch_mean:1280,92.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-396,10377,cls:1280 patch_mean:1280,106.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-397,7584,cls:1280 patch_mean:1280,85.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-398,12901,cls:1280 patch_mean:1280,129.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-400,21768,cls:1280 patch_mean:1280,191.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-401,4008,cls:1280 patch_mean:1280,36.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-403,9199,cls:1280 patch_mean:1280,96.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-404,11951,cls:1280 patch_mean:1280,118.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-405,19084,cls:1280 patch_mean:1280,171.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-406,10086,cls:1280 patch_mean:1280,103.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-407,5937,cls:1280 patch_mean:1280,72.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-408,12751,cls:1280 patch_mean:1280,123.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-41,7953,cls:1280 patch_mean:1280,88.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-42,4092,cls:1280 patch_mean:1280,36.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-44,3633,cls:1280 patch_mean:1280,33.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-46,5526,cls:1280 patch_mean:1280,69.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-48,10321,cls:1280 patch_mean:1280,106.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-5,4690,cls:1280 patch_mean:1280,62.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-51,7657,cls:1280 patch_mean:1280,85.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-55,2951,cls:1280 patch_mean:1280,28.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-57,3550,cls:1280 patch_mean:1280,33.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-59,8431,cls:1280 patch_mean:1280,94.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-61,4720,cls:1280 patch_mean:1280,63.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-63,12379,cls:1280 patch_mean:1280,121.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-65,8115,cls:1280 patch_mean:1280,87.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-66,10340,cls:1280 patch_mean:1280,106.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-67,4906,cls:1280 patch_mean:1280,64.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-69,2029,cls:1280 patch_mean:1280,20.8,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-7,4265,cls:1280 patch_mean:1280,59.6,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-71,5857,cls:1280 patch_mean:1280,71.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-73,8337,cls:1280 patch_mean:1280,90.0,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-77,7309,cls:1280 patch_mean:1280,83.3,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-80,15743,cls:1280 patch_mean:1280,146.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-83,16685,cls:1280 patch_mean:1280,153.1,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-86,12779,cls:1280 patch_mean:1280,123.7,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-89,8350,cls:1280 patch_mean:1280,89.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-9,7120,cls:1280 patch_mean:1280,81.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-91,12117,cls:1280 patch_mean:1280,119.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-93,2819,cls:1280 patch_mean:1280,26.9,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-95,15211,cls:1280 patch_mean:1280,143.4,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-97,12317,cls:1280 patch_mean:1280,120.2,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f
+virchow2,WSI-98,8073,cls:1280 patch_mean:1280,88.5,NVIDIA RTX PRO 6000 Blackwell Workstation Edition,fp32,3158645804b69e3f3bc4439d4116edddf0840a72,6d610b850234e1d2cc4e6f3f2d02821dcdd68e0f

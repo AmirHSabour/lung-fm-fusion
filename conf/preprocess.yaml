@@ -1,0 +1,36 @@
+# Slide preprocessing: resampling (stage 05), tissue and tiling (stage 06).
+cohort_csv: artifacts/cohort.csv          # slides to process: one per patient
+slide_scale_csv: artifacts/slide_scale.csv  # per-slide JPG microns per pixel (used with --all-slides)
+images_dir: data/raw/CLWD
+out_dir: data/processed/slides_0p5mpp     # large; git-ignored
+manifest_csv: artifacts/resampled_slides.csv
+
+resample:
+  target_mpp: 0.5         # 20x, the scale UNI2-h and Virchow2 were trained at (D3); GenBio-PathFM tiles use it too (D19)
+  kernel: lanczos3        # anti-aliased; one kernel for every slide
+  tile_size: 512          # internal TIFF tile size (storage only, unrelated to model tiles)
+  jpeg_quality: 90        # tested on WSI-140: 46.7 dB PSNR vs an uncompressed resize
+  workers: 8
+
+# Tissue segmentation (stage 06; see docs/methods.md D15). Runs on the resampled slides.
+tissue:
+  mask_mpp: 8.0           # pyramid level used for the mask (1/16 of 0.5 um/px)
+  median_um: 56.0         # median-filter width before thresholding
+  min_saturation: 15      # floor for the per-slide Otsu threshold (glass is 1-4 of 255)
+  closing_um: 16.0        # morphological closing radius
+  min_component_mm2: 0.02 # drop tissue specks smaller than this
+  ink_hue: [20, 180]      # pen ink (blue/green); H&E is ~185-255 on the libvips 0-255 hue scale
+  ink_min_saturation: 40
+  ink_min_mm2: 0.02       # ignore ink-coloured specks; pen strokes are large connected marks
+  ink_dilate_um: 16.0     # widen the ink mask to catch its blurred edges
+
+# Tiling (stage 06). Sizes in pixels at 0.5 um/px.
+tiling:
+  tile_px: 224            # native input of UNI2-h and Virchow2 at 20x (112 x 112 um)
+  stride_px: 224          # no overlap; fixed by the stride check (docs/methods.md D15)
+  min_tissue: 0.5         # keep a tile if at least half of it is tissue
+  max_ink: 0.05           # ...and at most 5% of it is pen ink
+  tiles_dir: artifacts/tiles
+  qc_dir: artifacts/qc/tiles
+  summary_csv: artifacts/tiles_summary.csv
+  workers: 16

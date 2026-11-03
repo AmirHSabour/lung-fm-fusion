@@ -1,0 +1,37 @@
+# Step 2: the fusion-search agent, version 1 (docs/agent.md).
+# Frozen and committed before the official run; the official run refuses an uncommitted copy.
+
+models: [uni2h, virchow2, genbio_pathfm]   # image blocks; age and sex are always the last block
+runs_dir: artifacts/runs                   # official runs: <runs_dir>/seed_<s>/agent/
+dryrun_dir: artifacts/dryrun               # dry runs (any subset of models); never reported
+device: cuda:0                             # networks; must be the conf/train.yaml GPU type (RTX 4090)
+
+order: [E1, E2, E3, E4, L1, L2, L3, L4, N1, N2, N3]   # Phase 1 order; also the simplicity order
+
+phase1:                     # one fixed value each, set before any fusion result (docs/agent.md)
+  C_img: 0.01               # image or joint classifier: the image baselines' most frequent choice
+  C_meta: 1.0               # age-and-sex base model: its baseline's most frequent choice
+  C_stack: 1.0              # stacking meta-learner (28 inputs)
+  weight_decay: 0.01        # networks: the AdamW default
+  size: 32                  # PCA k or projection d
+
+phase2:                     # tuning of the shortlisted recipes
+  grid: [0.0001, 0.001, 0.01, 0.1, 1.0]   # C or weight decay, chosen by inner CV
+  inner_folds: 5
+  sizes: [32, 64, 16]       # tried in this order: 16 only if 64 was not better than 32
+
+network:                    # fixed for every network experiment; never tuned
+  epochs: 100
+  lr: 0.001
+  dropout: 0.25
+  n_seeds: 3
+
+search:
+  budget: 20                # experiments per seed (11 + 3 x 3)
+  cap_minutes: 30           # wall-clock cap per experiment (safety net)
+  shortlist_max: 3
+  win_share: 0.9            # "clearly better" = wins in at least 90% of paired resamples...
+  bacc_margin: 0.02         # ...and balanced accuracy at most 0.02 lower
+  n_resamples: 2000
+
+max_iter: 5000              # logistic regression

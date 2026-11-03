@@ -1,0 +1,16 @@
+# Downstream training: slide features, baselines, fusion search, final test (stages 08-11).
+# See docs/agent.md and docs/methods.md D18 (compute).
+features_dir: artifacts/features
+runs_dir: artifacts/runs
+dryrun_dir: artifacts/dryrun          # dry runs (fewer than 3 models); never read by the report
+gpu_type: NVIDIA GeForce RTX 4090     # the only GPU type for downstream training; sklearn runs on CPU
+precision: fp32
+
+models: [uni2h, virchow2, genbio_pathfm]
+# Slide vector per model: mean over tiles of the model card's tile embedding (D16, D17).
+embedding: {uni2h: [cls], virchow2: [cls, patch_mean], genbio_pathfm: [cls]}
+
+classifier:                            # identical for every row (README line 162)
+  inner_folds: 5                       # inner CV on the training folds picks the regularisation
+  C_grid: [0.0001, 0.001, 0.01, 0.1, 1.0]  # inverse regularisation strengths (0.0001 added 2026-11-02: 0.001 was often chosen)
+  max_iter: 5000

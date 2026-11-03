@@ -1,0 +1,55 @@
+winner: s0-T016
+recipe: H1:raw
+size: null
+phase: 1
+candidate: H1:raw
+mode: screen
+settings:
+  C_meta: 1.0
+  aux_groups: true
+  candidate: H1:raw
+  d: 32
+  encoding: raw
+  family: hier
+  mil:
+    dropout: 0.25
+    epochs: 100
+    lr: 0.001
+    n_seeds: 3
+    tiles_per_step: 256
+  mode: screen
+  pool: product
+  recipe: H1
+  weight_decay: 0.01
+chosen_per_fold:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+macro_auroc:
+  ci:
+  - 0.8314939506050282
+  - 0.8943573078929239
+  fold_mean: 0.8631690797664094
+  fold_sd: 0.03316905018025288
+  oof: 0.8633573338389647
+balanced_accuracy:
+  ci:
+  - 0.44971192193567466
+  - 0.5916871320758316
+  fold_mean: 0.519047619047619
+  fold_sd: 0.10540925533894596
+  oof: 0.5214420083133768
+decision: s0-D006
+fingerprint: 9af3914a6a703c9273470b5ac689c5b152f60d66744d086cbfca0e2d75f681da
+checksum: ae8264866b3e0ff67e2260a1eec6862fd8a1d372aaf3a8f409190d88b5ba14af
+winners_curse:
+  experiments: 20
+  inflation_mean: 0.0022893142632909257
+  inflation_ci:
+  - -0.030318676938687752
+  - 0.03323304755613229

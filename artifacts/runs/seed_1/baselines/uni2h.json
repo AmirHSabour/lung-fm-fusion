@@ -1,0 +1,172 @@
+{
+  "n_patients": 162,
+  "n_features": 1536,
+  "chosen_C": [
+    0.01,
+    0.1,
+    0.01,
+    0.1,
+    0.01,
+    0.01,
+    0.01,
+    0.001
+  ],
+  "per_fold": [
+    {
+      "fold": 0,
+      "n": 21,
+      "macro_auroc": 0.8564503579209461,
+      "balanced_accuracy": 0.5333333333333333
+    },
+    {
+      "fold": 1,
+      "n": 21,
+      "macro_auroc": 0.7584801464445429,
+      "balanced_accuracy": 0.41904761904761906
+    },
+    {
+      "fold": 2,
+      "n": 20,
+      "macro_auroc": 0.7521039117401347,
+      "balanced_accuracy": 0.4880952380952381
+    },
+    {
+      "fold": 3,
+      "n": 20,
+      "macro_auroc": 0.8093925070028012,
+      "balanced_accuracy": 0.35714285714285715
+    },
+    {
+      "fold": 4,
+      "n": 20,
+      "macro_auroc": 0.8127103911740134,
+      "balanced_accuracy": 0.39285714285714285
+    },
+    {
+      "fold": 5,
+      "n": 20,
+      "macro_auroc": 0.8998307656395893,
+      "balanced_accuracy": 0.7023809523809523
+    },
+    {
+      "fold": 6,
+      "n": 20,
+      "macro_auroc": 0.8292587473585925,
+      "balanced_accuracy": 0.4547619047619048
+    },
+    {
+      "fold": 7,
+      "n": 20,
+      "macro_auroc": 0.8456302521008403,
+      "balanced_accuracy": 0.5666666666666667
+    }
+  ],
+  "per_class_auroc": {
+    "In situ": 0.9182,
+    "Lepidic": 0.7769,
+    "Acinar": 0.7268,
+    "Papillary": 0.6594,
+    "Micropapillary": 0.8207,
+    "Solid": 0.8433,
+    "Cribriform": 0.8722
+  },
+  "confusion": [
+    [
+      24,
+      3,
+      2,
+      6,
+      0,
+      1,
+      0
+    ],
+    [
+      4,
+      7,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      5,
+      6,
+      4,
+      2,
+      5,
+      0
+    ],
+    [
+      5,
+      3,
+      3,
+      12,
+      3,
+      4,
+      1
+    ],
+    [
+      1,
+      2,
+      1,
+      4,
+      12,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      6,
+      0,
+      13,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      3,
+      2,
+      6
+    ]
+  ],
+  "macro_auroc": {
+    "oof": 0.8024938313646585,
+    "ci_low": 0.7590269679899669,
+    "ci_high": 0.8420126305469343,
+    "fold_mean": 0.8204821349226825,
+    "fold_sd": 0.04928428149145014
+  },
+  "balanced_accuracy": {
+    "oof": 0.4867251528942572,
+    "ci_low": 0.4066476880607316,
+    "ci_high": 0.5673596223201762,
+    "fold_mean": 0.4892857142857142,
+    "fold_sd": 0.11098551372390797
+  },
+  "seed": 1,
+  "row": "uni2h",
+  "model": "uni2h",
+  "provisional": false,
+  "classifier": {
+    "inner_folds": 5,
+    "C_grid": [
+      0.0001,
+      0.001,
+      0.01,
+      0.1,
+      1.0
+    ],
+    "max_iter": 5000
+  },
+  "models_available": [
+    "uni2h",
+    "virchow2",
+    "genbio_pathfm"
+  ]
+}

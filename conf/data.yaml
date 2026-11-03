@@ -1,0 +1,20 @@
+# Data sources, cohort and splits (pipeline stages 01-04; see docs/methods.md).
+
+dataset:
+  repo_id: kmmuleelab/Lung_Pathology_Image_JPG
+  revision: 973975ae466f8f7751f5a3032c1a0ffea62b1fa0   # Hub commit used for every result
+  # Original Aperio SVS scans from the same authors; only their TIFF headers are read
+  # (byte ranges) to measure each JPG's true pixel size (D3, D8).
+  svs_url: https://leelab.kmmu.edu.cn/PathologyRepository/api/download?file=
+
+metadata_csv: data/metadata/CLWD.csv   # task-provided 6-column file; labels identical to the official one (D9)
+images_dir: data/raw/CLWD
+slide_scale_csv: artifacts/slide_scale.csv
+cohort_csv: artifacts/cohort.csv
+cohort_excluded_csv: artifacts/cohort_excluded.csv
+splits_dir: artifacts/splits
+
+split:
+  seeds: [0, 1, 2, 3, 4]            # fixed before any model is trained; seed 0 is the headline
+  test_fraction: 0.2
+  n_folds: 8

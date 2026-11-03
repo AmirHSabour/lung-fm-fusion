@@ -1,0 +1,23 @@
+{
+  "seed": 4,
+  "test_fraction": 0.2,
+  "n_folds": 8,
+  "n_patients": 203,
+  "sizes": {
+    "dev": 162,
+    "test": 41,
+    "folds": [
+      21,
+      21,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "cohort_csv": "artifacts/cohort.csv",
+  "cohort_sha256": "1ffe7dad0c5500bc3ef7ba90a4e069ff970b916abb0fe630af281ef500a6a647",
+  "scikit_learn": "1.9.1"
+}

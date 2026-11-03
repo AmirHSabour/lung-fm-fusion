@@ -1,0 +1,12 @@
+# Tile embedding extraction (stage 07; see docs/methods.md D16, D18).
+cohort_csv: artifacts/cohort.csv
+slides_dir: data/processed/slides_0p5mpp   # resampled 0.5 um/px slides (stage 05)
+tiles_dir: artifacts/tiles                 # kept tile positions (stage 06)
+out_dir: artifacts/embeddings              # one HDF5 file per slide per model; git-ignored
+models_config: conf/models.yaml
+
+tile_px: 224
+batch_size: 256
+workers: 14                # tile-reading processes per GPU job
+precision: fp32            # true full precision, TF32 off (docs/methods.md D18)
+gpu_type: NVIDIA RTX PRO 6000 Blackwell Workstation Edition  # the only GPU type for embeddings; downstream training uses RTX 4090 (conf/train.yaml, D18)
